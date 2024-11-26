@@ -1,0 +1,8 @@
+# You can comment like this
+
+#this is how to ignore files and irectories
+.vs/
+.git/
+
+#this is a file i want to ignore. 
+fileName.html
